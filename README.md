@@ -1,1 +1,13 @@
-# 181227
+# JavaScript 應用程式設計實戰班
+- 資料型態、運算元、運算式
+- 程式控制結構（if、while、for）、函式基礎
+- 陣列（建立、增減內容、合併、排序）與資料結構
+- JavaScript常用函式（字串、日期、數學）、正則運算式（Regular Expressions）
+- 物件導向程式設計觀念與語法、JSON
+- Node.js 架構與程式入門
+- 以 Node.js + Express 建構 Web API
+- Web 表單製作、以 Cordova 建置 Android 手機 App
+- 以 jQuery 存取網頁內容
+- 以 jQuery 實作 AJAX 前後端系統整合
+- JavaScript進階議題（函式即物件、一級函式、匿名函式、閉包）
+- 除錯與錯誤處理 
